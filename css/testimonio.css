@@ -1,0 +1,165 @@
+#testimonio-spaces {
+  height: 300px;
+}
+
+#testimonio-space {
+  height: 100px;
+}
+
+#imagen {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+#imagens {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+#move {
+  transform: translate(50%, 0%);
+}
+
+#tes-img {
+  width: 180px;
+  height: 150px;
+  border-radius: 250px;
+  transform: translate(140%, 0%);
+}
+
+#tes-img-2 {
+  width: 180px;
+  height: 150px;
+  border-radius: 250px;
+  transform: translate(140%, 0%);
+}
+
+@media only screen and (max-width: 2880px) {
+  #tes-img {
+    width: 180px;
+    height: 150px;
+    border-radius: 250px;
+    transform: translate(340%, 0%);
+  }
+
+  #tes-img-2 {
+    width: 180px;
+    height: 150px;
+    border-radius: 250px;
+    transform: translate(340%, 0%);
+  }
+}
+
+
+
+
+@media only screen and (max-width: 2500px) {
+    #tes-img {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(290%, 0%);
+    }
+  
+    #tes-img-2 {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(290%, 0%);
+    }
+  }
+
+
+
+  @media only screen and (max-width: 1440px) {
+    #tes-img {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(140%, 0%);
+    }
+  
+    #tes-img-2 {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(140%, 0%);
+    }
+  }
+
+
+  @media only screen and (max-width: 1366px) {
+    #tes-img {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(130%, 0%);
+    }
+  
+    #tes-img-2 {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(130%, 0%);
+    }
+  }
+
+
+  @media only screen and (max-width: 1024px) {
+    #tes-img {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(80%, 0%);
+    }
+  
+    #tes-img-2 {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(80%, 0%);
+    }
+  }
+
+
+  @media only screen and (max-width: 768px) {
+    #tes-img {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(50%, 0%);
+    }
+  
+    #tes-img-2 {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(50%, 0%);
+    }
+  }
+  
+
+
+  
+  @media only screen and (max-width: 414px) {
+    #tes-img {
+     display: none;
+    }
+  
+    #tes-img-2 {
+      width: 180px;
+      height: 150px;
+      border-radius: 250px;
+      transform: translate(50%, 0%);
+      display: none;
+    }
+  }
+  
+  
+  
+  
+  
+
+  

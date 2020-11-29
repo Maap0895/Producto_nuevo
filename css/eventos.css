@@ -1,0 +1,264 @@
+#testimonio-space{
+    height: 250px;
+}
+
+
+
+#imgocho{
+    height: 493px;
+}
+
+#mejora{
+    height: 253px;
+}
+
+
+#nueve{
+    height: 220px;
+}
+
+
+
+
+  @media only screen and (max-width: 1024px) {
+   
+
+
+    #imgocho{
+        height: 409px;
+    }
+    
+    #mejora{
+        height: 208px;
+    }
+    
+    
+    #nueve{
+        height: 180px;
+    }
+
+
+
+  }
+
+
+
+
+  
+  @media only screen and (max-width: 812px) {
+  
+
+
+
+    #imgocho{
+        height: 306px;
+    }
+    
+    #mejora{
+        height: 157px;
+    }
+    
+    
+    #nueve{
+        height: 136px;
+    }
+
+
+
+
+
+
+  }
+
+
+
+  @media only screen and (max-width: 768px) {
+  
+
+
+
+    #imgocho{
+        height: 309px;
+    }
+    
+    #mejora{
+        height: 160px;
+    }
+    
+    
+    #nueve{
+        height: 141px;
+    }
+
+
+
+
+
+
+  }
+
+
+
+  @media only screen and (max-width: 736px) {
+  
+
+
+
+    #imgocho{
+        height: 227px;
+    }
+    
+    #mejora{
+        height: 117px;
+    }
+    
+    
+    #nueve{
+        height: 101px;
+    }
+
+
+
+
+
+
+  }
+
+
+
+  @media only screen and (max-width: 667px) {
+  
+
+
+
+    #imgocho{
+        height: 227px;
+    }
+    
+    #mejora{
+        height: 117px;
+    }
+    
+    
+    #nueve{
+        height: 101px;
+    }
+
+
+
+
+
+
+  }
+
+
+  @media only screen and (max-width: 568px) {
+  
+
+
+
+    #imgocho{
+        height: 241px;
+    }
+    
+    #mejora{
+        height: 124px;
+    }
+    
+    
+    #nueve{
+        height: 108px;
+    }
+
+
+
+
+
+
+  }
+  
+  
+
+
+  
+  @media only screen and (max-width: 414px) {
+    
+
+    #imgocho{
+        height: 171px;
+    }
+    
+    #mejora{
+        height: 88px;
+    }
+    
+    
+    #nueve{
+        height: 77px;
+    }
+
+
+
+
+
+
+
+  }
+  
+
+  @media only screen and (max-width: 375px) {
+    
+    #imgocho{
+        height: 154px;
+    }
+    
+    #mejora{
+        height: 79px;
+    }
+    
+    
+    #nueve{
+        height: 69px;
+    }
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+@media only screen and (max-width: 320px) {
+    
+    #imgocho{
+        height: 129px;
+    }
+    
+    #mejora{
+        height: 66px;
+    }
+    
+    
+    #nueve{
+        height: 57px;
+    }
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+  

@@ -1,0 +1,1313 @@
+
+
+#main .carousel-one-inner img{
+  max-height: 150vh;
+  object-fit: cover;
+  filter: grayscale(10%);
+  height: 500px;
+}
+
+#carousel {
+  height: 300px;
+}
+
+#carousel-one {
+  position: relative;
+  z-index: 1;
+
+}
+
+#carousel-one .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  z-index: 2;
+}
+
+
+
+
+
+
+
+
+
+#layetana {
+  color: #e09b23;
+}
+
+#imagene-fondo {
+  filter: grayscale(80%);
+}
+
+#text {
+  color: #e09b23;
+  font-size: 70px;
+}
+
+#text2 {
+  color: white;
+  font-size: 40px;
+}
+
+#text3 {
+  font-size: 20px;
+  color: white;
+}
+
+/* color anaranjado de la cards */
+
+#tarjeta {
+  background-color: #e09b23;
+  color: white;
+}
+
+/* tamaño de la cards */
+
+.clase {
+  height: 320px;
+}
+
+/* primeras 3 cards */
+
+.crecer {
+  height: 300px;
+  width: 700px;
+  transform: translate(-10%, -0%);
+}
+
+.crecer-two {
+  height: 300px;
+  width: 700px;
+  transform: translate(57%, -200%);
+}
+.crecer-one {
+  height: 300px;
+  width: 700px;
+  transform: translate(123%, -100%);
+}
+
+.camarografo {
+  height: 300px;
+  width: 700px;
+  transform: translate(-70%, -100%);
+}
+
+/* letras de las 3  cards */
+
+#primeraletra {
+  font-size: large;
+  color: white;
+  transform: translate(0%, 110%);
+}
+
+
+#edicion {
+  font-size: large;
+color: white;
+transform: translate(0%, 30%);
+}
+
+
+#copywriter {
+  font-size: large;
+color: white;
+transform: translate(0%, 30%);
+}
+
+
+#diseño {
+  font-size: large;
+color: white;
+transform: translate(0%, 30%);
+}
+
+
+#labores {
+  font-size: large;
+color: white;
+transform: translate(0%, 10%);
+}
+
+
+
+#influir {
+  font-size: large;
+color: white;
+transform: translate(0%, -12%);
+}
+
+
+
+#sociales {
+  font-size: large;
+color: white;
+transform: translate(0%, 20%);
+}
+
+
+#enfocate {
+  font-size: large;
+color: white;
+transform: translate(0%, 30%);
+}
+
+
+#identidad {
+  font-size: large;
+color: white;
+transform: translate(0%, 90%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#community {
+  font-size: large;
+  color: white;
+  transform: translate(0%, 4%);
+}
+
+.crecer p {
+  transform: translate(0%, 1%);
+}
+
+.crecer-one p {
+  transform: translate(0%, 25%);
+}
+
+.crecer-two p {
+  transform: translate(0%, 15%);
+}
+
+/* card 4,5,6 */
+
+.segundo {
+  height: 300px;
+  width: 700px;
+  transform: translate(-10%, -65%);
+}
+.segundo-two {
+  height: 300px;
+  width: 700px;
+  transform: translate(56%, -167%);
+}
+.segundo-one {
+  height: 300px;
+  width: 700px;
+  transform: translate(120%, -100%);
+}
+
+/* letras de cards 4,5,6 */
+
+.segundo p {
+  transform: translate(0%, 3%);
+}
+
+.segundo-one p {
+  transform: translate(0%, 25%);
+}
+
+.segundo-two p {
+  transform: translate(0%, 15%);
+}
+
+/* card  7,8,9*/
+
+.tercero {
+  height: 300px;
+  width: 700px;
+  transform: translate(-10%, -28%);
+}
+.tercero-two {
+  height: 300px;
+  width: 700px;
+  transform: translate(56%, -228%);
+}
+.tercero-one {
+  height: 300px;
+  width: 700px;
+  transform: translate(122%, -128%);
+}
+
+/* letras de cards 7,8,9 */
+
+.tercero p {
+  transform: translate(0%, 3%);
+}
+
+.tercero-one p {
+  transform: translate(0%, 25%);
+}
+
+.tercero-two p {
+  transform: translate(0%, 15%);
+}
+
+.fotografia-hora {
+  height: 300px;
+  width: 700px;
+  transform: translate(-10%, -94%);
+}
+
+.camarografo {
+  height: 300px;
+  width: 700px;
+  transform: translate(56%, -195%);
+}
+
+#fotos {
+  border: 1px solid #e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 500%);
+  height: 60px;
+}
+
+#señora {
+  border: 1px solid #e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 550%);
+  height: 60px;
+}
+
+#señora-one {
+  border: 1px solid #e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 500%);
+  height: 60px;
+}
+
+#videos {
+  border: 1px solid#e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 550%);
+  height: 60px;
+}
+
+#marca {
+  border: 1px solid#e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 550%);
+  height: 60px;
+}
+
+#imagenes {
+  border: 1px solid#e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 550%);
+  height: 60px;
+}
+
+#influencer {
+  border: 1px solid#e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 585%);
+  height: 60px;
+}
+
+#empresarial {
+  border: 1px solid#e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 585%);
+  height: 60px;
+}
+
+#tomador-video {
+  border: 1px solid#e09b23;
+  background: #e09b23;
+  width: 321px;
+  transform: translate(-15%, 600%);
+  height: 60px;
+}
+
+#servicios-one {
+  transform: translate(-80%, 1600%);
+  height: 10px;
+}
+
+#españa {
+  transform: translate(-80%, -300%);
+  height: 10px;
+}
+
+#ancla {
+  list-style: none;
+}
+
+@media only screen and (max-width: 1024px) {
+  .crecer {
+    height: 300px;
+    width: 700px;
+    transform: translate(17%, -0%);
+  }
+
+  .crecer-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(70%, -200%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(17%, 133%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 700px;
+    transform: translate(70%, -68%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(17%, 59%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(120%, -100%);
+  }
+
+  .tercero {
+    height: 300px;
+    width: 700px;
+    transform: translate(70%, -55%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(18%, -20%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(70%, 80%);
+  }
+
+  #espacio {
+    height: 500px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 700px;
+    transform: translate(18%, 90%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 700px;
+    transform: translate(70%, -10%);
+  }
+
+  #españa {
+    transform: translate(76%, 3000%);
+    height: 10px;
+  }
+
+  #servicios-one {
+    transform: translate(72%, -1620%);
+    height: 10px;
+  }
+}
+
+@media only screen and (max-width: 812px) {
+  .crecer {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, -0%);
+  }
+
+  .crecer-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -201%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, 133%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -68%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, 59%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(120%, -100%);
+  }
+
+  .tercero {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -55%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, -20%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, 80%);
+  }
+
+  #espacio {
+    height: 500px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, 90%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -10%);
+  }
+
+  #españa {
+    transform: translate(48%, 3000%);
+    height: 10px;
+  }
+
+  #servicios-one {
+    transform: translate(44%, -1620%);
+    height: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .crecer {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, -0%);
+  }
+
+  .crecer-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -201%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, 133%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -68%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, 59%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(120%, -100%);
+  }
+
+  .tercero {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -55%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, -20%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, 80%);
+  }
+
+  #espacio {
+    height: 500px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 700px;
+    transform: translate(0%, 90%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 700px;
+    transform: translate(54%, -10%);
+  }
+
+  #españa {
+    transform: translate(48%, 3000%);
+    height: 10px;
+  }
+
+  #servicios-one {
+    transform: translate(44%, -1620%);
+    height: 10px;
+  }
+
+  #marca {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 321px;
+    transform: translate(-15%, 508%);
+    height: 60px;
+}
+}
+
+@media only screen and (max-width: 736px) {
+  .crecer {
+    height: 300px;
+    width: 300px;
+    transform: translate(-8%, -0%);
+  }
+  .crecer-two {
+    height: 300px;
+    width: 300px;
+    transform: translate(90%, -200%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 300px;
+    transform: translate(-8%, 118%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 300px;
+    transform: translate(90%, -82%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 300px;
+    transform: translate(-8%, 44%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 300px;
+    transform: translate(120%, -100%);
+  }
+
+  .tercero {
+    height: 300px;
+    width: 300px;
+    transform: translate(90%, -70%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 300px;
+    transform: translate(-8%, -50%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 300px;
+    transform: translate(90%, 50%);
+  }
+
+  #espacio {
+    height: 300px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 300px;
+    transform: translate(-8%, 50%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 300px;
+    transform: translate(90%, -50%);
+  }
+  #españa {
+    transform: translate(16%, 1900%);
+    height: 10px;
+  }
+  #servicios-one {
+    transform: translate(26%, -2000%);
+    height: 10px;
+  }
+
+  #fotos {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 605%);
+    height: 60px;
+  }
+
+  #señora {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 600%);
+    height: 60px;
+  }
+
+  #señora-one {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 556%);
+    height: 60px;
+  }
+  #videos {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 650%);
+    height: 60px;
+  }
+
+  #marca {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 606%);
+    height: 60px;
+  }
+
+  #imagenes {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 550%);
+    height: 60px;
+  }
+
+  #influencer {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 585%);
+    height: 60px;
+  }
+
+  #empresarial {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 585%);
+    height: 60px;
+  }
+
+  #tomador-video {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-18%, 595%);
+    height: 60px;
+  }
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 414px) {
+  .crecer {
+    height: 300px;
+    width: 430px;
+    transform: translate(-0%, -0%);
+  }
+  .crecer-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, -3%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-0%, 294%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 282%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-0%, 379%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 379%);
+  }
+  .tercero {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 476%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 473%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 770%);
+  }
+
+  #espacio {
+    height: 3000px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 759%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 430px;
+    transform: translate(0%, 856%);
+  }
+  #españa {
+    transform: translate(16%, 1900%);
+    height: 10px;
+    display: none;
+  }
+  #servicios-one {
+    transform: translate(26%, -2000%);
+    height: 10px;
+    display: none;
+  }
+
+  #fotos {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 605%);
+    height: 60px;
+  }
+
+  #señora {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 600%);
+    height: 60px;
+  }
+
+  #señora-one {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 556%);
+    height: 60px;
+  }
+  #videos {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 650%);
+    height: 60px;
+  }
+
+  #marca {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 606%);
+    height: 60px;
+  }
+
+  #imagenes {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 550%);
+    height: 60px;
+  }
+
+  #influencer {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 585%);
+    height: 60px;
+  }
+
+  #empresarial {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 585%);
+    height: 60px;
+  }
+
+  #tomador-video {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 595%);
+    height: 60px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 375px) {
+  .crecer {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, -0%);
+  }
+  .crecer-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, -3%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 294%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 282%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 379%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 379%);
+  }
+  .tercero {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 476%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 473%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 770%);
+  }
+
+  #espacio {
+    height: 3000px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 759%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 856%);
+  }
+  #españa {
+    transform: translate(16%, 1900%);
+    height: 10px;
+    display: none;
+  }
+  #servicios-one {
+    transform: translate(26%, -2000%);
+    height: 10px;
+    display: none;
+  }
+
+  #fotos {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 605%);
+    height: 60px;
+  }
+
+  #señora {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 600%);
+    height: 60px;
+  }
+
+  #señora-one {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 556%);
+    height: 60px;
+  }
+  #videos {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 650%);
+    height: 60px;
+  }
+
+  #marca {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 606%);
+    height: 60px;
+  }
+
+  #imagenes {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 550%);
+    height: 60px;
+  }
+
+  #influencer {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 585%);
+    height: 60px;
+  }
+
+  #empresarial {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 585%);
+    height: 60px;
+  }
+
+  #tomador-video {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-0%, 595%);
+    height: 60px;
+  }
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 320px) {
+
+
+
+  #community {
+    font-size: large;
+    color: white;
+    transform: translate(-10%, 4%);
+  }
+
+  #primeraletra {
+    font-size: large;
+    color: white;
+    transform: translate(-10%, 110%);
+  }
+  
+  
+  #edicion {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 30%);
+  }
+  
+  
+  #copywriter {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 30%);
+  }
+  
+  
+  #diseño {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 30%);
+  }
+  
+  
+  #labores {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 10%);
+  }
+  
+  
+  
+  #influir {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, -12%);
+  }
+  
+  
+  
+  #sociales {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 20%);
+  }
+  
+  
+  #enfocate {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 30%);
+  }
+  
+  
+  #identidad {
+    font-size: large;
+  color: white;
+  transform: translate(-10%, 90%);
+  }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  .crecer {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, -0%);
+  }
+  .crecer-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, -3%);
+  }
+  .crecer-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 294%);
+  }
+
+  .segundo {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 282%);
+  }
+
+  .segundo-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 379%);
+  }
+
+  .segundo-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 379%);
+  }
+  .tercero {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 476%);
+  }
+  .tercero-two {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 473%);
+  }
+
+  .tercero-one {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 770%);
+  }
+
+  #espacio {
+    height: 3000px;
+  }
+
+  .fotografia-hora {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 759%);
+  }
+
+  .camarografo {
+    height: 300px;
+    width: 430px;
+    transform: translate(-3%, 856%);
+  }
+  #españa {
+    transform: translate(16%, 1900%);
+    height: 10px;
+    display: none;
+  }
+  #servicios-one {
+    transform: translate(26%, -2000%);
+    height: 10px;
+    display: none;
+  }
+
+  #fotos {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 605%);
+    height: 60px;
+  }
+
+  #señora {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 600%);
+    height: 60px;
+  }
+
+  #señora-one {
+    border: 1px solid #e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 556%);
+    height: 60px;
+  }
+  #videos {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 650%);
+    height: 60px;
+  }
+
+  #marca {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 606%);
+    height: 60px;
+  }
+
+  #imagenes {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 550%);
+    height: 60px;
+  }
+
+  #influencer {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 585%);
+    height: 60px;
+  }
+
+  #empresarial {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 585%);
+    height: 60px;
+  }
+
+  #tomador-video {
+    border: 1px solid#e09b23;
+    background: #e09b23;
+    width: 272px;
+    transform: translate(-10%, 595%);
+    height: 60px;
+  }
+}
